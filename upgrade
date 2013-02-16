@@ -1,0 +1,16 @@
+<!--[if lte IE 8]>
+<style>
+#warning{
+	top:0;
+	left:0;
+	width:100%;
+	height:7%;
+	background:rgb(170, 5, 5);
+	position:absolute;
+}
+
+</style>
+<div id="warning">
+	<font face="Calibri, Arial" size="2"><center><p>Your browser (Internet Explorer 9) is outdated. Why not upgrade to a modern one, such as <a href="google.com/chrome">Chrome</a> or <a href="firefox.com">Firefox</a>?</p></center></font>
+	</div>
+<![endif]-->
